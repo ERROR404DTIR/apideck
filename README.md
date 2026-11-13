@@ -1,5 +1,7 @@
 # APIDeck
 
+<p align="center"><img src="assets/readme-banner.svg" alt="Animated APIDeck API workspace banner" width="100%"></p>
+
 A responsive, local-first API workspace inspired by modern API clients. Build HTTP requests, inspect responses, organize collections and keep request history in your browser.
 
 **Live:** https://error404dtir.github.io/apideck/
